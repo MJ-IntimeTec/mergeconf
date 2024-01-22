@@ -1,6 +1,10 @@
 hi
+<<<<<<< HEAD
 hello i am mihir
 sfbfj
+=======
+hello i am hero
+>>>>>>> main
 he
 hello i am zero
 hello i am lokit jain
